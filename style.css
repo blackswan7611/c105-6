@@ -1,0 +1,29 @@
+body
+{
+    background-color:lavender;
+    color: rgb(117, 77, 197);
+}
+
+.heading
+{
+   width: 60%;
+   font-size: 23px; 
+}
+
+.name_of_objects
+{
+    color: cornflowerblue;
+}
+
+#resultObjectName
+{
+    color: darkkhaki;
+}
+
+#webcam
+{
+    border:2px dashed black;
+    width: 350px;
+    height:300px;
+}
+
